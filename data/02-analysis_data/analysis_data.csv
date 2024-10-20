@@ -1,0 +1,101 @@
+poll_id,pollster_name,methodology,transparency_score,state,party,candidate_name,percentage,sample_size
+1,Ipsos,Mixed,2.9,California,Republican,Kamala Harris,30.3,1047
+2,Ipsos,Phone,7.9,Florida,Democrat,Kamala Harris,42.2,524
+3,TIPP Insights,Mixed,4.1,Georgia,Democrat,Donald Trump,20.9,1528
+4,Ipsos,In-person,8.8,California,Republican,Joe Biden,28.4,1473
+5,YouGov,Phone,9.4,Georgia,Republican,Kamala Harris,45.5,885
+6,Ipsos,Phone,0.5,Ohio,Republican,Donald Trump,48.7,2598
+7,YouGov,In-person,5.3,Florida,Democrat,Joe Biden,51.1,2964
+8,YouGov,Online,8.9,California,Republican,Donald Trump,22.9,2818
+9,TIPP Insights,Mixed,5.5,Georgia,Democrat,Joe Biden,23.9,1496
+10,ActiVote,Mixed,4.6,Georgia,Republican,Kamala Harris,57.9,1866
+11,ActiVote,Phone,9.6,Ohio,Democrat,Ron DeSantis,57.2,1278
+12,Ipsos,Online,4.5,Michigan,Democrat,Kamala Harris,56.9,2828
+13,Ipsos,In-person,6.8,California,Democrat,Kamala Harris,46,1661
+14,TIPP Insights,Online,5.7,Georgia,Republican,Ron DeSantis,26.3,2319
+15,TIPP Insights,Mixed,1,California,Democrat,Donald Trump,56.4,1145
+16,YouGov,In-person,9,Illinois,Republican,Donald Trump,56.9,2047
+17,ActiVote,In-person,2.5,Texas,Democrat,Joe Biden,26.8,646
+18,ActiVote,In-person,0.4,Pennsylvania,Democrat,Ron DeSantis,22.9,2454
+19,ActiVote,Online,3.3,North Carolina,Democrat,Donald Trump,42.6,763
+20,Ipsos,In-person,9.5,Florida,Democrat,Joe Biden,34.6,1578
+21,ActiVote,In-person,8.9,North Carolina,Republican,Kamala Harris,38.4,1359
+22,ActiVote,Online,6.9,New York,Republican,Joe Biden,38.6,1120
+23,YouGov,Phone,6.4,Georgia,Democrat,Donald Trump,51.2,2933
+24,Ipsos,Phone,9.9,Illinois,Republican,Kamala Harris,52.9,1265
+25,TIPP Insights,Phone,6.6,Michigan,Republican,Donald Trump,31.3,2272
+26,YouGov,Phone,7.1,Pennsylvania,Republican,Donald Trump,49.2,2728
+27,TIPP Insights,Phone,5.4,California,Republican,Ron DeSantis,39.8,2905
+28,ActiVote,In-person,5.9,California,Republican,Kamala Harris,22.7,2238
+29,ActiVote,Phone,2.9,Texas,Democrat,Donald Trump,21.5,702
+30,Ipsos,Mixed,1.5,North Carolina,Republican,Ron DeSantis,29.5,2192
+31,TIPP Insights,Phone,9.6,Michigan,Democrat,Kamala Harris,28.7,2068
+32,ActiVote,Mixed,9,California,Republican,Donald Trump,36.9,652
+33,ActiVote,Phone,6.9,Texas,Democrat,Ron DeSantis,42,2540
+34,YouGov,Phone,8,Michigan,Republican,Ron DeSantis,48.5,1011
+35,TIPP Insights,Phone,0.2,California,Republican,Joe Biden,29.6,795
+36,Ipsos,Mixed,4.8,Texas,Republican,Ron DeSantis,55.8,2030
+37,ActiVote,Online,7.6,New York,Republican,Ron DeSantis,39.3,2399
+38,TIPP Insights,Phone,2.2,Georgia,Democrat,Ron DeSantis,30.5,571
+39,Ipsos,Mixed,3.2,Georgia,Democrat,Ron DeSantis,32.8,963
+40,TIPP Insights,Mixed,2.3,Pennsylvania,Democrat,Donald Trump,46.6,1789
+41,TIPP Insights,Phone,1.4,Michigan,Republican,Joe Biden,49.1,1309
+42,ActiVote,Phone,4.1,North Carolina,Republican,Kamala Harris,42.9,1163
+43,TIPP Insights,Mixed,4.1,California,Democrat,Donald Trump,55.1,1871
+44,ActiVote,Mixed,3.7,New York,Republican,Kamala Harris,36.4,2587
+45,Ipsos,Online,1.5,Ohio,Republican,Ron DeSantis,28.2,2181
+46,YouGov,Online,1.4,Illinois,Republican,Joe Biden,38.8,1598
+47,Ipsos,Phone,2.3,Texas,Republican,Joe Biden,35.2,646
+48,YouGov,Phone,4.7,Ohio,Democrat,Ron DeSantis,29.9,2229
+49,ActiVote,In-person,2.7,Florida,Republican,Kamala Harris,57,2156
+50,TIPP Insights,Mixed,8.6,Texas,Republican,Ron DeSantis,38.6,2844
+51,YouGov,Phone,0.5,California,Republican,Kamala Harris,20.6,2250
+52,TIPP Insights,Online,4.4,Illinois,Republican,Ron DeSantis,57.7,2296
+53,YouGov,Phone,8,Illinois,Democrat,Joe Biden,35,2669
+54,Ipsos,In-person,1.2,New York,Republican,Kamala Harris,20.3,1785
+55,ActiVote,Phone,5.6,Pennsylvania,Democrat,Joe Biden,59.2,1125
+56,Ipsos,Online,2.1,Pennsylvania,Democrat,Ron DeSantis,35.1,2830
+57,Ipsos,Mixed,1.3,North Carolina,Republican,Donald Trump,59.4,639
+58,YouGov,Mixed,7.5,Georgia,Republican,Kamala Harris,25.6,1474
+59,Ipsos,Online,9,Illinois,Democrat,Joe Biden,42.5,1109
+60,TIPP Insights,In-person,3.7,North Carolina,Democrat,Joe Biden,51.8,2433
+61,YouGov,Phone,6.7,Ohio,Democrat,Joe Biden,27.8,1653
+62,YouGov,Online,0.9,Florida,Republican,Ron DeSantis,48.4,1859
+63,YouGov,Phone,3.8,California,Republican,Joe Biden,42.6,1154
+64,ActiVote,Online,2.7,Texas,Democrat,Joe Biden,20.4,2096
+65,ActiVote,Online,8.1,North Carolina,Republican,Kamala Harris,30.3,1902
+66,TIPP Insights,Phone,4.5,Pennsylvania,Democrat,Ron DeSantis,38.8,2152
+67,Ipsos,Online,8.1,Pennsylvania,Democrat,Joe Biden,57.1,651
+68,YouGov,Phone,8.1,Ohio,Republican,Kamala Harris,59.8,1486
+69,ActiVote,Mixed,7.9,California,Democrat,Donald Trump,28.4,2422
+70,ActiVote,Online,4.4,California,Democrat,Ron DeSantis,41.8,1301
+71,TIPP Insights,Mixed,7.5,North Carolina,Republican,Ron DeSantis,45.8,529
+72,ActiVote,Phone,6.3,Texas,Democrat,Ron DeSantis,56,2428
+73,ActiVote,In-person,7.1,Texas,Republican,Ron DeSantis,49.3,2611
+74,Ipsos,Phone,0,Pennsylvania,Republican,Donald Trump,44.4,2240
+75,TIPP Insights,Mixed,4.8,California,Democrat,Donald Trump,29,2382
+76,Ipsos,Online,2.2,Florida,Republican,Kamala Harris,56.6,1122
+77,ActiVote,Online,3.8,North Carolina,Democrat,Kamala Harris,52.1,2847
+78,YouGov,Online,6.1,Michigan,Democrat,Kamala Harris,32.5,2664
+79,ActiVote,Mixed,3.5,Florida,Republican,Ron DeSantis,29.1,1468
+80,TIPP Insights,Phone,1.1,Texas,Republican,Joe Biden,46.3,1776
+81,YouGov,Mixed,2.4,California,Republican,Joe Biden,49.4,1750
+82,TIPP Insights,Phone,6.7,Michigan,Republican,Ron DeSantis,38.6,992
+83,ActiVote,Online,4.2,Florida,Democrat,Ron DeSantis,54.5,2349
+84,YouGov,Online,7.9,Texas,Democrat,Ron DeSantis,47,2492
+85,Ipsos,Online,1,Michigan,Republican,Ron DeSantis,26.5,1777
+86,TIPP Insights,In-person,4.3,North Carolina,Republican,Ron DeSantis,20.5,2979
+87,TIPP Insights,In-person,9.8,North Carolina,Democrat,Ron DeSantis,54.6,1464
+88,ActiVote,Online,8.9,Illinois,Democrat,Ron DeSantis,24,539
+89,TIPP Insights,Phone,8.9,Illinois,Republican,Kamala Harris,32.5,1743
+90,Ipsos,In-person,1.8,Georgia,Republican,Joe Biden,37.4,817
+91,Ipsos,Online,1.3,New York,Democrat,Donald Trump,44.6,2757
+92,Ipsos,Online,6.5,Texas,Democrat,Donald Trump,33.6,603
+93,YouGov,Mixed,3.4,California,Democrat,Donald Trump,43.2,990
+94,Ipsos,In-person,6.6,Texas,Democrat,Joe Biden,53.2,2799
+95,Ipsos,Mixed,3.2,Ohio,Republican,Donald Trump,33.4,1869
+96,ActiVote,Online,1.9,Ohio,Democrat,Ron DeSantis,35.3,1177
+97,Ipsos,Mixed,7.8,New York,Democrat,Donald Trump,44.2,2050
+98,TIPP Insights,Online,0.9,Pennsylvania,Democrat,Kamala Harris,39.8,1188
+99,TIPP Insights,Mixed,4.7,North Carolina,Democrat,Kamala Harris,24.4,2702
+100,Ipsos,Phone,5.1,California,Democrat,Joe Biden,53.8,2619
