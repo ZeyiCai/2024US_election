@@ -1,4 +1,4 @@
-# Starter folder
+# 2024US_election
 
 ## Overview
 
@@ -19,7 +19,7 @@ The repo is structured as:
 
 ## Statement on LLM usage
 
-Aspects of the code were written with the help of the auto-complete tool, Codriver. The abstract and introduction were written with the help of ChatHorse and the entire chat history is available in inputs/llms/usage.txt.
+Aspects of the code were written with the help of ChatGpt but the entire chat history has not been available in inputs/llms/usage.txt yet. We will definitely finsh it in our final submission.
 
 ## Some checks
 
